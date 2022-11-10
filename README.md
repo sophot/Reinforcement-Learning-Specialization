@@ -16,7 +16,7 @@ Courses on RL offered by University of Alberta on Coursera
  >
  > - [x] [3.1] VFA: Semi-gradient TD(0) with State Aggregation - [Go to assignment](https://github.com/sophot/Reinforcement-Learning-Specialization/tree/master/3_Prediction%20and%20Control%20with%20Function%20Approximation/Week%201/Notebook:%20Semi-gradient%20TD(0)%20with%20State%20Aggregation)
  >
- > - [ ] [3.2] VFA: Semi-gradient TD with NN - [Go to assignment](https://github.com/sophot/Reinforcement-Learning-Specialization/tree/master/3_Prediction%20and%20Control%20with%20Function%20Approximation/Week%202/Notebook:%20Semi-gradient%20TD%20with%20a%20Neural%20Network)
+ > - [x] [3.2] VFA: Semi-gradient TD with NN - [Go to assignment](https://github.com/sophot/Reinforcement-Learning-Specialization/tree/master/3_Prediction%20and%20Control%20with%20Function%20Approximation/Week%202/Notebook:%20Semi-gradient%20TD%20with%20a%20Neural%20Network)
  >
  > - [ ] [3.3] Function Approximation and Control - [Go to assignment](https://github.com/sophot/Reinforcement-Learning-Specialization/tree/master/3_Prediction%20and%20Control%20with%20Function%20Approximation/Week%203/Notebook:%20Function%20Approximation%20and%20Control)
  > 
