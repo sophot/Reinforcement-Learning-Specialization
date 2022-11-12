@@ -20,5 +20,5 @@ Courses on RL offered by University of Alberta on Coursera
  >
  > - [x] [3.3] Function Approximation and Control - [Go to assignment](https://github.com/sophot/Reinforcement-Learning-Specialization/tree/master/3_Prediction%20and%20Control%20with%20Function%20Approximation/Week%203/Notebook:%20Function%20Approximation%20and%20Control)
  > 
- > - [ ] [3.4] Average Reward Softmax Actor-Critic - [Go to assignment](https://github.com/sophot/Reinforcement-Learning-Specialization/tree/master/3_Prediction%20and%20Control%20with%20Function%20Approximation/Week%204/Notebook:%20Average%20Reward%20Softmax%20Actor-Critic%20using%20Tile-coding)
+ > - [x] [3.4] Average Reward Softmax Actor-Critic - [Go to assignment](https://github.com/sophot/Reinforcement-Learning-Specialization/tree/master/3_Prediction%20and%20Control%20with%20Function%20Approximation/Week%204/Notebook:%20Average%20Reward%20Softmax%20Actor-Critic%20using%20Tile-coding)
  >
